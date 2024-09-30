@@ -1,0 +1,730 @@
+name: Rectangle Filling, rating: 1100, tags: constructive algorithms, implementation
+name: A BIT of a Construction, rating: 1100, tags: bitmasks, constructive algorithms, greedy, implementation
+name: Nene vs. Monsters (Hard Version), rating: 2700, tags: brute force, greedy, implementation, math
+name: Nene vs. Monsters (Easy Version), rating: 2500, tags: brute force, implementation, math
+name: Nene and the Mex Operator, rating: 2000, tags: bitmasks, brute force, constructive algorithms, divide and conquer, dp, greedy, implementation, math
+name: GCD on a grid, rating: 1900, tags: brute force, dfs and similar, dp, implementation, math, number theory
+name: Long Inversions, rating: 1700, tags: brute force, greedy, implementation, sortings
+name: Inhabitant of the Deep Sea, rating: 1300, tags: greedy, implementation, math
+name: Progressive Square, rating: 1000, tags: constructive algorithms, data structures, implementation, sortings
+name: Chain Reaction, rating: 2200, tags: binary search, data structures, dsu, greedy, implementation, math, number theory
+name: Make It Ugly, rating: 1200, tags: implementation, math
+name: Help, what does it mean to be "Based", rating: N/A, tags: brute force, constructive algorithms, expression parsing, implementation, sortings  
+name: Palindrome, rating: N/A, tags: implementation, strings
+name: Are You a Procrastinator?, rating: N/A, tags: implementation
+name: No Palindromes, rating: 2000, tags: brute force, constructive algorithms, divide and conquer, greedy, hashing, implementation, math, strings  
+name: Shuffling Songs, rating: 1900, tags: bitmasks, dfs and similar, dp, graphs, hashing, implementation, strings
+name: 0, 1, 2, Tree!, rating: 1700, tags: bitmasks, brute force, greedy, implementation, trees
+name: Nearly Shortest Repeating Substring, rating: 1500, tags: brute force, implementation, number theory, strings
+name: Product of Binary Decimals, rating: 1100, tags: brute force, dp, implementation, number theory
+name: Clock Conversion, rating: 800, tags: implementation, math
+name: Upscaling, rating: 800, tags: implementation
+name: Stair, Peak, or Neither?, rating: 800, tags: implementation
+name: Amanda the Amoeba, rating: 2600, tags: graphs, implementation, trees, two pointers
+name: Clique Partition, rating: 2100, tags: brute force, constructive algorithms, graphs, greedy, implementation
+name: Array Fix, rating: 1100, tags: brute force, dp, greedy, implementation
+name: Birthday Gift, rating: 1900, tags: bitmasks, brute force, constructive algorithms, greedy, implementation
+name: Tree Cutting, rating: 1600, tags: binary search, dp, greedy, implementation, trees
+name: Median of an Array, rating: 800, tags: greedy, implementation, sortings
+name: Cook and Porridge, rating: 2500, tags: binary search, constructive algorithms, data structures, implementation
+name: Non-Palindromic Substring, rating: 2000, tags: hashing, implementation, math, strings
+name: Farmer John's Favorite Function, rating: 2700, tags: brute force, data structures, implementation, math
+name: Learning to Paint, rating: 2100, tags: binary search, data structures, dfs and similar, dp, greedy, implementation, sortings
+name: Rudolf and the Ball Game, rating: 1200, tags: dfs and similar, dp, implementation
+name: Three Arrays, rating: N/A, tags: *special, constructive algorithms, implementation, sortings
+name: Binary Path, rating: 1300, tags: dp, greedy, implementation
+name: Shuffle Party, rating: 800, tags: implementation, math
+name: PokÃ©mon Arena, rating: 2400, tags: data structures, graphs, greedy, implementation, shortest paths, sortings
+name: Pinball, rating: 2000, tags: binary search, data structures, implementation, math, two pointers
+name: Andrey's Tree, rating: 2800, tags: binary search, constructive algorithms, data structures, dfs and similar, dsu, greedy, implementation, trees
+name: Exam in MAC, rating: 1800, tags: binary search, combinatorics, implementation, math
+name: Turtle vs. Rabbit Race: Optimal Trainings, rating: 1500, tags: binary search, implementation, math, ternary search
+name: Turtle Fingers: Count the Values of k, rating: 1100, tags: brute force, implementation, math, number theory
+name: Turtle Math: Fast Three Task, rating: 800, tags: implementation, math, number theory
+name: Final Countdown, rating: 1600, tags: implementation, math, number theory
+name: Card Game, rating: 1400, tags: greedy, implementation
+name: LR-remainders, rating: 1400, tags: brute force, data structures, implementation, math, two pointers
+name: Thorns and Coins, rating: 800, tags: dp, greedy, implementation
+name: Sum over all Substrings (Hard Version), rating: 2100, tags: bitmasks, divide and conquer, dp, dsu, greedy, implementation, strings
+name: Digital Patterns, rating: 2900, tags: combinatorics, data structures, implementation, math
+name: Microcycle, rating: 1900, tags: data structures, dfs and similar, dsu, graphs, greedy, implementation, sortings, trees
+name: Vlad and Trouble at MIT, rating: 1900, tags: dfs and similar, dp, flows, graphs, greedy, implementation, trees
+name: Vlad and Avoiding X, rating: 2200, tags: bitmasks, brute force, dfs and similar, dp, implementation
+name: Vlad and an Odd Ordering, rating: 1500, tags: binary search, bitmasks, data structures, dp, implementation, math, number theory
+name: Vlad and a Sum of Sum of Digits, rating: 1200, tags: dp, implementation
+name: Vlad and Shapes, rating: 800, tags: geometry, implementation
+name: Vlad and the Best of Five, rating: 800, tags: implementation
+name: Space Harbour, rating: 2100, tags: data structures, implementation, math, sortings
+name: Shrink-Reverse, rating: 2800, tags: binary search, brute force, greedy, hashing, implementation, string suffix structures, strings
+name: Monsters Attack!, rating: 1100, tags: dp, greedy, implementation
+name: Moving Chips, rating: 800, tags: greedy, implementation
+name: Berserk Monsters, rating: 1900, tags: brute force, data structures, dsu, implementation, math
+name: Closest Cities, rating: 1300, tags: greedy, implementation, math
+name: Tricky Template, rating: 800, tags: constructive algorithms, implementation, strings
+name: Mischievous Shooter, rating: 2200, tags: brute force, data structures, divide and conquer, dp, implementation
+name: Sum of Progression, rating: 1900, tags: brute force, data structures, dp, implementation, math
+name: Arranging Cats, rating: 800, tags: greedy, implementation
+name: Array Repetition, rating: 1900, tags: binary search, brute force, dsu, implementation, math
+name: Counting Prefixes, rating: 2600, tags: combinatorics, constructive algorithms, dp, implementation, math
+name: Caterpillar on a Tree, rating: 2500, tags: dfs and similar, graphs, greedy, implementation, sortings, trees
+name: ace5 and Task Order, rating: 2200, tags: constructive algorithms, divide and conquer, implementation, interactive, probabilities, sortings    
+name: Blocking Elements, rating: 1900, tags: binary search, data structures, dp, implementation, two pointers
+name: XOR-distance, rating: 1400, tags: bitmasks, greedy, implementation, math
+name: Minimize Inversions, rating: 900, tags: constructive algorithms, data structures, greedy, implementation, sortings
+name: Brick Wall, rating: 800, tags: constructive algorithms, greedy, implementation, math
+name: Yet Another Inversions Problem, rating: 2300, tags: combinatorics, data structures, dp, implementation, math, number theory
+name: Watering an Array, rating: 1600, tags: brute force, greedy, implementation, math
+name: Training Before the Olympiad, rating: 1200, tags: constructive algorithms, games, greedy, implementation, math
+name: 2023, rating: 800, tags: constructive algorithms, implementation, math, number theory
+name: Bicycles, rating: 1800, tags: graphs, greedy, implementation, shortest paths, sortings
+name: Unnatural Language Processing, rating: 900, tags: greedy, implementation, strings
+name: Can I Square?, rating: 800, tags: binary search, implementation
+name: Not Quite Latin Square, rating: 800, tags: bitmasks, brute force, implementation
+name: Odd One Out, rating: 800, tags: bitmasks, implementation
+name: Three Activities, rating: 1200, tags: brute force, dp, greedy, implementation, sortings
+name: Problemsolving Log, rating: 800, tags: implementation, strings
+name: Rating Increase, rating: 800, tags: implementation
+name: Evaluate It and Back Again, rating: 2200, tags: constructive algorithms, implementation, math
+name: Accumulator Apex, rating: 1900, tags: data structures, implementation, sortings
+name: Poisonous Swamp, rating: 1600, tags: *special, *special, implementation, implementation
+name: Username, rating: 1100, tags: *special, implementation
+name: Distinct Buttons, rating: 800, tags: implementation, math
+name: Lights, rating: 2200, tags: brute force, constructive algorithms, dfs and similar, graphs, greedy, implementation
+name: YetnotherrokenKeoard, rating: 1000, tags: data structures, implementation, strings
+name: Rook, rating: 800, tags: implementation
+name: Cyclic MEX, rating: 2000, tags: data structures, implementation, math, two pointers
+name: Beautiful Tree, rating: 2800, tags: data structures, dfs and similar, graphs, implementation, trees
+name: Tree Queries, rating: 2500, tags: data structures, dfs and similar, graphs, implementation, trees
+name: Set To Max (Hard Version), rating: 1800, tags: constructive algorithms, data structures, divide and conquer, greedy, implementation, sortings 
+name: Forked!, rating: 900, tags: brute force, implementation
+name: Trees and XOR Queries Again, rating: 2400, tags: data structures, dfs and similar, divide and conquer, graphs, implementation, math, trees    
+name: Robot Queries, rating: 1900, tags: binary search, data structures, dp, implementation
+name: Yet Another Monster Fight, rating: 1700, tags: binary search, dp, greedy, implementation, math
+name: Local Deletions, rating: 2800, tags: binary search, data structures, implementation
+name: Transitive Graph, rating: 2100, tags: dfs and similar, dp, dsu, graphs, implementation
+name: Cover in Water, rating: 800, tags: constructive algorithms, greedy, implementation, strings
+name: Queue Sort, rating: 1300, tags: greedy, implementation, sortings
+name: 250 Thousand Tons of TNT, rating: 1100, tags: brute force, implementation, number theory
+name: Milica and String, rating: 800, tags: brute force, implementation, strings
+name: Pepe Racing, rating: 3200, tags: constructive algorithms, implementation, interactive, sortings
+name: Bracket Xoring, rating: 2600, tags: constructive algorithms, greedy, implementation, math
+name: Torn Lucky Ticket, rating: 1400, tags: brute force, dp, hashing, implementation, math
+name: Secret Sport, rating: 800, tags: implementation, strings
+name: Freedom of Choice, rating: 2000, tags: brute force, greedy, implementation
+name: Anonymous Informant, rating: 1400, tags: brute force, dfs and similar, graphs, implementation
+name: Brukhovich and Exams, rating: 2500, tags: brute force, greedy, implementation, math, sortings
+name: Qingshan Loves Strings, rating: 800, tags: constructive algorithms, implementation
+name: Game of Stacks, rating: 3000, tags: brute force, dfs and similar, graphs, implementation, trees
+name: Qingshan Loves Strings 2, rating: 1300, tags: constructive algorithms, greedy, implementation
+name: Decreasing String, rating: 1600, tags: implementation, strings
+name: Hard Design, rating: 2800, tags: greedy, implementation, math
+name: Perfect Square, rating: 1200, tags: brute force, implementation
+name: Interactive Game with Coloring, rating: 2400, tags: brute force, constructive algorithms, dfs and similar, graphs, implementation, interactive, trees
+name: Jellyfish and Game, rating: 1200, tags: brute force, games, greedy, implementation
+name: 1D Eraser, rating: 800, tags: greedy, implementation, two pointers
+name: Target Practice, rating: 800, tags: implementation, math
+name: Short Sort, rating: 800, tags: brute force, implementation
+name: Selling a Menagerie, rating: 1800, tags: dfs and similar, dsu, graphs, implementation, math
+name: The Corridor or There and Back Again, rating: 900, tags: greedy, implementation
+name: Prefix Purchase, rating: 1800, tags: greedy, implementation, sortings
+name: Colorful Table, rating: 1300, tags: binary search, data structures, dp, implementation, math, two pointers
+name: LIS?, rating: 3500, tags: data structures, greedy, implementation
+name: Flower-like Pseudotree, rating: 3000, tags: constructive algorithms, graphs, greedy, implementation, trees
+name: Travel Plan, rating: 2400, tags: combinatorics, dp, implementation, math, trees
+name: Candy Party (Hard Version), rating: 2100, tags: bitmasks, constructive algorithms, dp, greedy, implementation, math
+name: Candy Party (Easy Version), rating: 1700, tags: bitmasks, constructive algorithms, graphs, greedy, implementation, math
+name: Fill in the Matrix, rating: 1300, tags: constructive algorithms, implementation
+name: Cyclic Operations, rating: 1800, tags: brute force, constructive algorithms, dfs and similar, graphs, greedy, implementation
+name: Keen Tree Calculation, rating: 2500, tags: binary search, data structures, dp, geometry, graphs, implementation, trees
+name: Magic Square, rating: 3100, tags: combinatorics, constructive algorithms, implementation
+name: Exotic Queries, rating: 2300, tags: data structures, implementation, sortings
+name: Increasing and Decreasing, rating: 800, tags: constructive algorithms, greedy, implementation, math
+name: MEX Repetition, rating: 1100, tags: implementation, math
+name: Channel, rating: 800, tags: greedy, implementation
+name: Flower City Fence, rating: 1100, tags: binary search, data structures, implementation, sortings
+name: Gift Carpet, rating: 800, tags: dp, greedy, implementation, strings
+name: Non-Intersecting Subpermutations, rating: 2300, tags: combinatorics, dp, implementation, math
+name: Queries for the Array, rating: 1600, tags: data structures, dfs and similar, implementation, strings, trees
+name: Evaluate RBS, rating: 2900, tags: data structures, geometry, implementation, math, sortings
+name: Maximum Rounding, rating: 1100, tags: greedy, implementation, math
+name: PermuTree (hard version), rating: 2700, tags: bitmasks, dfs and similar, dp, fft, greedy, implementation, math, trees
+name: Good Arrays, rating: 900, tags: implementation, math
+name: Tales of a Sort, rating: 800, tags: implementation
+name: Vlad and the Mountains, rating: 2000, tags: binary search, data structures, dsu, graphs, implementation, sortings, trees, two pointers        
+name: Prefix Permutation Sums, rating: 1300, tags: implementation, math
+name: The Third Letter, rating: 1700, tags: dfs and similar, dsu, graphs, greedy, implementation
+name: The Morning Star, rating: 1500, tags: combinatorics, data structures, geometry, implementation, math, sortings
+name: We Were Both Children, rating: 1300, tags: brute force, implementation, math, number theory
+name: Cardboard for Pictures, rating: 1100, tags: binary search, geometry, implementation, math
+name: Balanced Round, rating: 900, tags: brute force, greedy, implementation, sortings
+name: Word on the Paper, rating: 800, tags: implementation, strings
+name: Ten Words of Wisdom, rating: 800, tags: implementation, sortings
+name: To My Critics, rating: 800, tags: implementation, sortings
+name: Morning Sandwich, rating: 800, tags: implementation, math
+name: Vika and Stone Skipping, rating: 2600, tags: brute force, implementation, math, number theory
+name: Vika and the Bridge, rating: 1200, tags: binary search, data structures, greedy, implementation, math, sortings
+name: Triangle Platinum?, rating: 2900, tags: brute force, combinatorics, implementation, interactive, math, probabilities
+name: Professor Higashikata, rating: 1900, tags: data structures, dsu, greedy, implementation, strings
+name: Rudolph and Mimic, rating: 1800, tags: constructive algorithms, implementation, interactive
+name: Rudolf and Snowflakes (hard version), rating: 1800, tags: binary search, brute force, implementation, math
+name: Rudolf and Snowflakes (simple version), rating: 1300, tags: brute force, implementation, math
+name: Rudolph and Tic-Tac-Toe, rating: 800, tags: brute force, implementation, strings
+name: Rudolph and Cut the Rope , rating: 800, tags: implementation, math
+name: Boxes and Balls, rating: 2500, tags: dp, implementation, math
+name: Come Together, rating: 900, tags: geometry, implementation, math
+name: Forbidden Integer, rating: 800, tags: constructive algorithms, implementation, math, number theory
+name: Tree Weights, rating: 3000, tags: bitmasks, constructive algorithms, data structures, dfs and similar, implementation, math, matrices, number theory, trees
+name: Particles, rating: 1300, tags: dp, greedy, implementation, math
+name: Keep it Beautiful, rating: 1000, tags: implementation
+name: Character Blocking, rating: 1600, tags: data structures, hashing, implementation
+name: Cipher Shifer, rating: 800, tags: implementation, strings, two pointers
+name: The Good Array, rating: 800, tags: greedy, implementation, math
+name: Editorial for Two, rating: 2400, tags: binary search, data structures, greedy, implementation
+name: Destroyer, rating: 800, tags: implementation, sortings
+name: Good Graph, rating: 3500, tags: bitmasks, dfs and similar, graph matchings, graphs, implementation
+name: k-th equality, rating: 1700, tags: brute force, implementation, math
+name: MEX of LCM, rating: 2300, tags: binary search, data structures, implementation, math, number theory
+name: Survey in Class, rating: 1900, tags: brute force, data structures, greedy, implementation, sortings
+name: Ksyusha and Chinchilla, rating: 1800, tags: constructive algorithms, dfs and similar, dp, dsu, greedy, implementation, trees
+name: Ira and Flamenco, rating: 1700, tags: combinatorics, constructive algorithms, data structures, implementation, math, sortings, two pointers   
+name: Musical Puzzle, rating: 800, tags: implementation, strings
+name: Red-Blue Operations (Hard Version), rating: 2400, tags: binary search, constructive algorithms, greedy, implementation, math
+name: Red-Blue Operations (Easy Version), rating: 2100, tags: binary search, greedy, implementation, math
+name: Contrast Value, rating: 1200, tags: greedy, implementation
+name: Hits Different, rating: 1600, tags: data structures, dp, implementation, math
+name: The Lakes, rating: 1100, tags: dfs and similar, dsu, graphs, implementation
+name: Gold Rush, rating: 1000, tags: brute force, dfs and similar, dp, implementation
+name: Mr. Perfectly Fine, rating: 800, tags: bitmasks, greedy, implementation
+name: Blank Space, rating: 800, tags: implementation
+name: Love Story, rating: 800, tags: implementation, strings
+name: Walk the Runway, rating: 2400, tags: bitmasks, brute force, data structures, dp, graphs, implementation, sortings
+name: Trust Nobody, rating: 1200, tags: brute force, greedy, implementation, sortings
+name: LuoTianyi and the Show, rating: 1400, tags: greedy, implementation
+name: TubeTube Feed, rating: 800, tags: brute force, implementation
+name: Tear It Apart, rating: 1300, tags: brute force, implementation, math, strings
+name: Yura's New Name, rating: 800, tags: implementation, strings
+name: The Fox and the Complete Tree Traversal, rating: 2400, tags: constructive algorithms, dp, implementation, math, trees
+name: The Butcher, rating: 1900, tags: geometry, greedy, implementation, sortings, two pointers
+name: Politics, rating: 800, tags: greedy, implementation
+name: Toy Machine, rating: 2700, tags: constructive algorithms, games, implementation
+name: BinCoin, rating: 2200, tags: binary search, divide and conquer, hashing, implementation, probabilities, trees
+name: Gaining Rating, rating: 2200, tags: binary search, greedy, implementation, math, sortings, two pointers
+name: Copy of a Copy of a Copy, rating: 2000, tags: constructive algorithms, dfs and similar, graphs, implementation, sortings
+name: Matrix Rotation, rating: 800, tags: brute force, implementation
+name: A+B?, rating: 800, tags: implementation
+name: Hossam and a Letter, rating: 2500, tags: brute force, dp, implementation, two pointers
+name: Koxia and Game, rating: 2000, tags: constructive algorithms, data structures, dfs and similar, dsu, flows, games, graph matchings, graphs, implementation
+name: ÐšÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ñ„Ð°Ð¹Ð»Ð¾Ð² I, rating: 1000, tags: *special, brute force, implementation, math
+name: Elemental Decompress, rating: 1300, tags: constructive algorithms, greedy, implementation, sortings
+name: Cut the Triangle, rating: 800, tags: implementation
+name: Hamiltonian Wall, rating: 1300, tags: dp, implementation
+name: Notepad#, rating: 1000, tags: implementation
+name: Extremely Round, rating: 800, tags: brute force, implementation
+name: Project Manager, rating: 2400, tags: brute force, data structures, implementation
+name: Infinite Chess, rating: 2800, tags: implementation, shortest paths
+name: Hospital Queue, rating: 2200, tags: binary search, graphs, greedy, implementation
+name: Valid Bitonic Permutations, rating: 2200, tags: combinatorics, dp, implementation, math, number theory
+name: Incinerate, rating: 1200, tags: binary search, brute force, data structures, implementation, math, sortings
+name: Make Array Good, rating: 1100, tags: constructive algorithms, implementation, number theory, sortings
+name: Elimination of a Ring, rating: 1000, tags: constructive algorithms, greedy, implementation
+name: Challenging Valleys, rating: 1000, tags: implementation, two pointers
+name: Advantage, rating: 800, tags: data structures, implementation, sortings
+name: Atilla's Favorite Problem, rating: 800, tags: greedy, implementation, strings
+name: Medium Number, rating: 800, tags: implementation, sortings
+name: Yes-Yes?, rating: 800, tags: implementation, strings
+name: Complementary XOR, rating: 1400, tags: constructive algorithms, implementation
+name: Maximum Substring, rating: 800, tags: brute force, greedy, implementation
+name: Indirect Sort, rating: 800, tags: constructive algorithms, implementation, math
+name: Number Game, rating: 1400, tags: binary search, data structures, games, greedy, implementation
+name: Cowardly Rooks, rating: 800, tags: greedy, implementation
+name: Zero-Sum Prefixes, rating: 1600, tags: brute force, data structures, dp, greedy, implementation
+name: Diverse Substrings, rating: 1400, tags: brute force, implementation, strings
+name: Olympiad Training, rating: 3500, tags: binary search, data structures, dp, flows, geometry, implementation, sortings
+name: Permutation Operations, rating: 1300, tags: constructive algorithms, greedy, implementation, math
+name: Traffic Light, rating: 1000, tags: binary search, implementation, two pointers
+name: Even-Odd Increments , rating: 800, tags: implementation, math
+name: Number Replacement, rating: 800, tags: greedy, implementation
+name: Password, rating: 800, tags: brute force, combinatorics, implementation, math
+name: Stripes, rating: 900, tags: implementation
+name: Increasing, rating: 800, tags: greedy, implementation, sortings
+name: Sum, rating: 800, tags: implementation
+name: Compare T-Shirt Sizes, rating: 800, tags: implementation, implementation, strings
+name: Immobile Knight, rating: 800, tags: implementation
+name: Glory Addicts, rating: 800, tags: greedy, implementation, sortings
+name: Ela and the Wiring Wizard, rating: 2200, tags: brute force, dp, graphs, greedy, implementation, shortest paths
+name: Ela and Crickets, rating: 1500, tags: constructive algorithms, games, implementation, math
+name: Ela's Fitness and the Luxury Number, rating: 1300, tags: binary search, implementation, math
+name: Ela Sorting Books, rating: 900, tags: greedy, implementation, strings
+name: Equal Binary Subsequences, rating: 2200, tags: constructive algorithms, geometry, greedy, implementation, strings
+name: Phase Shift, rating: 1400, tags: dfs and similar, dsu, graphs, greedy, implementation, strings
+name: Balance (Easy version), rating: 1500, tags: brute force, data structures, implementation, number theory
+name: Sheikh (Hard Version), rating: 2100, tags: binary search, bitmasks, brute force, greedy, implementation, two pointers
+name: Ugu, rating: 900, tags: brute force, dp, greedy, implementation
+name: Bestie, rating: 1000, tags: brute force, combinatorics, constructive algorithms, implementation, math, number theory
+name: Meeting on the Line, rating: 1600, tags: binary search, geometry, greedy, implementation, math, ternary search
+name: Colored Balls: Revisited, rating: 800, tags: brute force, greedy, implementation, sortings
+name: Mainak and the Bleeding Polygon, rating: 3500, tags: binary search, geometry, implementation, math
+name: L-shapes, rating: 1700, tags: dfs and similar, implementation
+name: Counting Rectangles, rating: 1600, tags: brute force, data structures, dp, implementation
+name: Word Game, rating: 800, tags: data structures, implementation
+name: Colourblindness, rating: 800, tags: implementation
+name: Spell Check, rating: 800, tags: implementation
+name: Deadly Laser, rating: 1000, tags: implementation
+name: Image, rating: 800, tags: greedy, implementation
+name: Misha and Paintings, rating: 2700, tags: constructive algorithms, data structures, greedy, implementation, math
+name: Corners, rating: 1200, tags: greedy, implementation
+name: Fighting Tournament, rating: 1400, tags: binary search, data structures, implementation, two pointers
+name: Impressionism, rating: 3500, tags: constructive algorithms, graphs, implementation, math
+name: Fibonacci Strings, rating: 2000, tags: greedy, implementation, math, number theory
+name: Madoka and The First Session, rating: 2500, tags: constructive algorithms, flows, graph matchings, graphs, implementation
+name: Madoka and Underground Competitions, rating: 1100, tags: constructive algorithms, implementation
+name: Robot in a Hallway, rating: 2000, tags: data structures, dp, greedy, implementation, ternary search
+name: Monoblock, rating: 1700, tags: combinatorics, data structures, implementation, math
+name: Build a Tree and That Is It, rating: 1900, tags: constructive algorithms, implementation, trees
+name: Remove Prefix, rating: 800, tags: data structures, greedy, implementation
+name: Everyone Loves to Sleep, rating: 900, tags: implementation, math
+name: Traveling Salesman Problem, rating: 800, tags: geometry, greedy, implementation
+name: Wonderful Permutation, rating: 800, tags: greedy, implementation
+name: Rain, rating: 2100, tags: binary search, brute force, data structures, geometry, greedy, implementation, math
+name: Recover an RBS, rating: 1800, tags: constructive algorithms, greedy, implementation, strings
+name: Also Try Minecraft, rating: 900, tags: data structures, dp, implementation
+name: Three Doors, rating: 800, tags: brute force, greedy, implementation, math
+name: Difference Array, rating: 1900, tags: brute force, data structures, implementation, sortings
+name: Doremy's IQ, rating: 1600, tags: binary search, constructive algorithms, greedy, implementation
+name: Qpwoeirut And The City, rating: 1400, tags: dp, flows, greedy, implementation
+name: Mark and His Unfinished Essay, rating: 1400, tags: brute force, implementation
+name: Mark the Dust Sweeper, rating: 900, tags: constructive algorithms, greedy, implementation
+name: Count Seconds, rating: 2200, tags: brute force, constructive algorithms, dp, graphs, implementation, math
+name: Magical Array, rating: 1900, tags: constructive algorithms, hashing, implementation, math
+name: Virus, rating: 1200, tags: greedy, implementation, sortings
+name: Luke is a Foodie, rating: 1000, tags: brute force, greedy, implementation
+name: Mirror Grid, rating: 1200, tags: implementation
+name: Cypher, rating: 800, tags: brute force, implementation, strings
+name: ICPC Balloons, rating: 800, tags: data structures, implementation
+name: YES or YES?, rating: 800, tags: brute force, implementation, strings
+name: Points, rating: 2500, tags: combinatorics, data structures, implementation, math, matrices
+name: Schedule Management, rating: 1400, tags: binary search, greedy, implementation, two pointers
+name: Grass Field, rating: 800, tags: implementation
+name: Palindromic Numbers , rating: 1100, tags: constructive algorithms, implementation, math
+name: Equal Reversal, rating: 2800, tags: constructive algorithms, graphs, implementation, math
+name: Rising Sand, rating: 800, tags: constructive algorithms, greedy, implementation
+name: Too Many Constraints, rating: 2800, tags: 2-sat, constructive algorithms, graphs, implementation
+name: Coloring, rating: 2400, tags: brute force, combinatorics, constructive algorithms, dp, geometry, graphs, greedy, implementation, math
+name: awoo's Favorite Problem, rating: 1400, tags: binary search, constructive algorithms, data structures, greedy, implementation, strings, two pointers
+name: Organizing SWERC, rating: N/A, tags: brute force, implementation
+name: Promising String (hard version), rating: 2100, tags: data structures, implementation, math, strings
+name: Promising String (easy version), rating: 1700, tags: brute force, implementation, math, strings
+name: Matrix and Shifts, rating: 1600, tags: brute force, constructive algorithms, greedy, implementation
+name: Maximum Product Strikes Back, rating: 1600, tags: brute force, implementation, math, two pointers
+name: Reverse Sort Sum, rating: 1900, tags: constructive algorithms, data structures, greedy, implementation, math, two pointers
+name: Line Empire, rating: 1500, tags: binary search, brute force, dp, greedy, implementation, math
+name: Red Versus Blue, rating: 1000, tags: constructive algorithms, greedy, implementation, math
+name: Gojou and Matrix Game, rating: 2500, tags: data structures, dp, games, hashing, implementation, math, number theory, sortings
+name: Marin and Photoshoot, rating: 800, tags: constructive algorithms, implementation, math
+name: Bracket Sequence Deletion, rating: 1200, tags: greedy, implementation
+name: Alice and the Cake, rating: 1400, tags: data structures, greedy, implementation, sortings
+name: Maximum Cake Tastiness, rating: 800, tags: brute force, greedy, implementation, sortings
+name: Fault-tolerant Network, rating: 1500, tags: brute force, data structures, implementation
+name: Playoff, rating: 800, tags: implementation
+name: Vitaly and Advanced Useless Algorithms, rating: 2200, tags: dp, greedy, implementation
+name: Rescheduling the Exam, rating: 1900, tags: binary search, data structures, greedy, implementation, math, sortings
+name: Twist the Permutation, rating: 1300, tags: brute force, constructive algorithms, implementation, math
+name: Weight of the System of Nested Segments, rating: 1200, tags: greedy, hashing, implementation, sortings
+name: Deletions of Two Adjacent Letters, rating: 800, tags: implementation, strings
+name: Game of Ball Passing, rating: 1300, tags: greedy, implementation
+name: Game, rating: 800, tags: implementation
+name: Air Reform, rating: 3200, tags: data structures, dfs and similar, divide and conquer, dsu, graphs, implementation, trees
+name: Serious Business, rating: 2800, tags: data structures, divide and conquer, dp, implementation, shortest paths
+name: Tyler and Strings, rating: 1900, tags: combinatorics, data structures, implementation
+name: Madoka and the Elegant Gift, rating: 1200, tags: brute force, constructive algorithms, graphs, implementation
+name: Madoka and Math Dad, rating: 800, tags: implementation, math
+name: Playing Around the Table, rating: 2900, tags: constructive algorithms, greedy, implementation
+name: Weight the Tree, rating: 2000, tags: constructive algorithms, dfs and similar, dp, implementation, trees
+name: Expand the Path, rating: 1900, tags: brute force, combinatorics, data structures, implementation, math
+name: Cross Coloring, rating: 1700, tags: data structures, implementation, math
+name: Increase Subarray Sums, rating: 1400, tags: brute force, dp, greedy, implementation
+name: Anti-Fibonacci Permutation, rating: 800, tags: brute force, constructive algorithms, implementation
+name: Doors and Keys, rating: 800, tags: implementation
+name: Repetitions Decoding, rating: 2000, tags: constructive algorithms, implementation, sortings
+name: Colorful Operations, rating: 2400, tags: brute force, data structures, implementation
+name: Big Brush, rating: 2000, tags: constructive algorithms, data structures, greedy, implementation
+name: Best Pair, rating: 2100, tags: binary search, brute force, implementation
+name: Andrew and Stones, rating: 1200, tags: greedy, implementation
+name: Hyperset, rating: 1500, tags: brute force, data structures, implementation
+name: Angry Students, rating: 800, tags: greedy, implementation
+name: Harry The Potter, rating: 3100, tags: brute force, constructive algorithms, dp, fft, implementation, math
+name: Just Eat It!, rating: 1300, tags: dp, greedy, implementation
+name: New Year and Ascent Sequence, rating: 1400, tags: binary search, combinatorics, data structures, dp, implementation, sortings
+name: New Year and Naming, rating: 800, tags: implementation, strings
+name: Temporarily unavailable, rating: 900, tags: implementation, math
+name: Suffix Three, rating: 800, tags: implementation
+name: Beingawesomeism, rating: 1800, tags: implementation, math
+name: Cut and Paste, rating: 1700, tags: implementation, math
+name: Stack of Presents, rating: 1400, tags: data structures, implementation
+name: Verse For Santa, rating: 1300, tags: binary search, brute force, implementation
+name: Berry Jam, rating: 1700, tags: data structures, dp, greedy, implementation
+name: Shuffle Hashing, rating: 1000, tags: brute force, implementation, strings
+name: Let's Play the Words?, rating: 1900, tags: data structures, hashing, implementation, math
+name: Happy Birthday, Polycarp!, rating: 1000, tags: implementation
+name: Yet Another Broken Keyboard, rating: 1200, tags: combinatorics, dp, implementation
+name: Snow Walking Robot, rating: 1200, tags: constructive algorithms, greedy, implementation
+name: Portals, rating: 2100, tags: data structures, dp, greedy, implementation, sortings
+name: Shawarma Tent, rating: 1300, tags: brute force, geometry, greedy, implementation
+name: Long Beautiful Integer, rating: 1700, tags: constructive algorithms, greedy, implementation, strings
+name: Just Arrange the Icons, rating: 1800, tags: greedy, implementation, math
+name: Intriguing Selection, rating: 2600, tags: brute force, constructive algorithms, implementation, interactive, sortings
+name: Spaceship Solitaire, rating: 2100, tags: data structures, greedy, implementation
+name: Decreasing Debts, rating: 2000, tags: constructive algorithms, data structures, graphs, greedy, implementation, math, two pointers
+name: Beautiful Numbers, rating: 1300, tags: data structures, implementation, math, two pointers
+name: Beautiful Regional Contest, rating: 1500, tags: greedy, implementation
+name: Editor, rating: 2100, tags: data structures, implementation
+name: PIN Codes, rating: 1400, tags: greedy, implementation
+name: Dominated Subarray, rating: 1200, tags: greedy, implementation, sortings, strings, two pointers
+name: League of Leesins, rating: 1600, tags: constructive algorithms, implementation
+name: Fridge Lockers, rating: 1100, tags: graphs, implementation
+name: Feeding Chicken, rating: 1700, tags: constructive algorithms, greedy, implementation
+name: Silly Mistake, rating: 1400, tags: greedy, implementation
+name: Single Push, rating: 1000, tags: implementation
+name: Twin Buildings, rating: 1800, tags: greedy, implementation
+name: Even Path, rating: 1600, tags: data structures, implementation
+name: Data Center, rating: 800, tags: brute force, implementation
+name: The Coronation, rating: 2300, tags: graphs, implementation
+name: Berstagram, rating: 1400, tags: implementation
+name: Good Numbers (easy version), rating: 1300, tags: brute force, greedy, implementation
+name: The World Is Just a Programming Task (Easy Version), rating: 2000, tags: brute force, dp, greedy, implementation
+name: Chips, rating: 2300, tags: constructive algorithms, implementation
+name: Paint the Tree, rating: 1800, tags: brute force, constructive algorithms, dp, graphs, implementation, trees
+name: Rooms and Staircases, rating: 1000, tags: brute force, implementation
+name: Maximum Square, rating: 800, tags: implementation
+name: Swiper, no swiping!, rating: 3400, tags: graphs, implementation
+name: Turtle, rating: 3100, tags: dp, implementation
+name: Queue in the Train, rating: 2300, tags: data structures, greedy, implementation
+name: The World Is Just a Programming Task (Hard Version), rating: 2500, tags: implementation
+name: Balanced Playlist, rating: 2000, tags: binary search, data structures, implementation
+name: Balanced Removals (Harder), rating: 1900, tags: binary search, constructive algorithms, divide and conquer, greedy, implementation, sortings  
+name: Balanced Rating Changes, rating: 1000, tags: implementation, math
+name: Alice and the Doll, rating: 2300, tags: brute force, data structures, greedy, implementation
+name: Labs, rating: 1300, tags: constructive algorithms, greedy, implementation
+name: Pipes, rating: 1500, tags: dp, implementation
+name: Social Network (hard version), rating: 1300, tags: data structures, implementation
+name: Social Network (easy version), rating: 1000, tags: implementation
+name: Ania and Minimizing, rating: 1000, tags: greedy, implementation
+name: Dawid and Bags of Candies, rating: 800, tags: brute force, implementation
+name: Complete Tripartite, rating: 1900, tags: brute force, constructive algorithms, graphs, hashing, implementation
+name: Filling the Grid, rating: 1400, tags: implementation, math
+name: Distinct Digits, rating: 800, tags: brute force, implementation
+name: TV Subscriptions (Hard Version), rating: 1300, tags: implementation, two pointers
+name: TV Subscriptions (Easy Version), rating: 1000, tags: implementation
+name: Cards, rating: 800, tags: implementation, sortings, strings
+name: Harvester, rating: 2000, tags: implementation
+name: Periodic integer number, rating: 1700, tags: implementation, strings
+name: Sum Queries?, rating: 2300, tags: data structures, greedy, implementation, math
+name: Shooting, rating: 900, tags: greedy, implementation, sortings
+name: The Number of Products, rating: 1400, tags: combinatorics, dp, implementation
+name: Yellow Cards, rating: 1000, tags: greedy, implementation, math
+name: Unstable String Sort, rating: 2100, tags: data structures, dfs and similar, dsu, graphs, greedy, implementation, strings
+name: Equalizing by Division (easy version), rating: 1500, tags: brute force, implementation
+name: Bad Prices, rating: 1100, tags: data structures, implementation
+name: kotlinkotlinkotlinkotlin..., rating: 2300, tags: *special, graphs, implementation, strings
+name: Traveling Around the Golden Ring of Berland, rating: 1500, tags: *special, implementation
+name: Three Problems, rating: 1000, tags: *special, implementation
+name: Into Blocks (easy version), rating: 2000, tags: data structures, dsu, greedy, implementation, two pointers
+name: Paint the Digits, rating: 1500, tags: constructive algorithms, greedy, implementation
+name: Koala and Lights, rating: 1300, tags: implementation, math, number theory
+name: Paint the Numbers, rating: 800, tags: greedy, implementation, math
+name: Red Blue Tree, rating: 3500, tags: data structures, implementation, trees
+name: Let Them Slide, rating: 2200, tags: data structures, implementation
+name: Restore Permutation, rating: 1900, tags: binary search, data structures, greedy, implementation
+name: Uniqueness, rating: 1500, tags: binary search, brute force, implementation, two pointers
+name: Remainder Problem, rating: 2100, tags: brute force, data structures, implementation
+name: Square Filling, rating: 1200, tags: constructive algorithms, greedy, implementation
+name: There Are Two Types Of Burgers, rating: 800, tags: brute force, greedy, implementation, math
+name: Make Product Equal One, rating: 900, tags: dp, implementation
+name: Palindromic Paths, rating: 2400, tags: implementation, interactive
+name: Remove the Substring (hard version), rating: 1700, tags: binary search, greedy, implementation, two pointers
+name: Remove the Substring (easy version), rating: 1600, tags: greedy, implementation
+name: Common Divisors, rating: 1300, tags: implementation, math
+name: Circle of Students, rating: 1000, tags: implementation
+name: You Are Given Some Letters..., rating: 2700, tags: binary search, implementation, math
+name: You Are Given a WASD-string..., rating: 2100, tags: brute force, data structures, dp, greedy, implementation, math, strings
+name: Treasure Hunting, rating: 2100, tags: binary search, dp, greedy, implementation
+name: Important Exam, rating: 900, tags: implementation, strings
+name: Graph Traveler, rating: 2300, tags: brute force, data structures, dfs and similar, dp, graphs, implementation, math, number theory
+name: Compress Words, rating: 2000, tags: brute force, hashing, implementation, string suffix structures, strings
+name: White Lines, rating: 1900, tags: brute force, data structures, dp, implementation, two pointers
+name: Hotelier, rating: 800, tags: brute force, data structures, implementation
+name: City Day, rating: 1000, tags: implementation
+name: Pillars, rating: 1000, tags: greedy, implementation
+name: Connected Component on a Chessboard, rating: 1800, tags: constructive algorithms, implementation
+name: RGB Substring (hard version), rating: 1600, tags: data structures, dp, implementation, two pointers
+name: RGB Substring (easy version), rating: 1500, tags: implementation
+name: Robot Breakout, rating: 1500, tags: implementation
+name: From S To T, rating: 1300, tags: implementation, strings
+name: Yet Another Crosses Problem, rating: 1300, tags: implementation
+name: Tokitsukaze and Mahjong, rating: 1200, tags: brute force, implementation
+name: Tokitsukaze and Discard Items, rating: 1400, tags: implementation, two pointers
+name: Candies!, rating: 1400, tags: data structures, dp, implementation, math
+name: Add on a Tree: Revolution, rating: 2500, tags: constructive algorithms, dfs and similar, implementation, trees
+name: Vasya And Array, rating: 1800, tags: constructive algorithms, greedy, implementation
+name: Letters Shop, rating: 1300, tags: binary search, implementation, strings
+name: Vus the Cossack and a Graph, rating: 2400, tags: dfs and similar, graphs, greedy, implementation
+name: Vus the Cossack and a Field, rating: 2500, tags: divide and conquer, implementation, math
+name: Vus the Cossack and Strings, rating: 1800, tags: implementation, math
+name: Vus the Cossack and a Contest, rating: 800, tags: implementation
+name: Polycarp and Snakes, rating: 2000, tags: brute force, implementation
+name: Extra Element, rating: 1700, tags: implementation, math
+name: Email from Polycarp, rating: 1200, tags: implementation, strings
+name: Parallel Universes (Easy), rating: 1600, tags: implementation
+name: Heidi and the Turing Test (Easy), rating: 1600, tags: implementation
+name: Candy Box (hard version), rating: 2000, tags: greedy, implementation, sortings
+name: Subsequences (easy version), rating: 2000, tags: dp, graphs, implementation, shortest paths
+name: Nearest Interesting Number, rating: 800, tags: implementation
+name: Complete Mirror, rating: 2400, tags: constructive algorithms, dfs and similar, dp, hashing, implementation, trees
+name: Plus from Picture, rating: 1300, tags: dfs and similar, implementation, strings
+name: Irrigation, rating: 2200, tags: binary search, data structures, implementation, sortings, trees, two pointers
+name: Flag, rating: 1900, tags: brute force, combinatorics, dp, implementation
+name: Split a Number, rating: 1500, tags: greedy, implementation, strings
+name: Nick and Array, rating: 1500, tags: greedy, implementation
+name: Alex and a Rhombus, rating: 800, tags: dp, implementation, math
+name: Serge and Dining Room, rating: 2200, tags: binary search, data structures, graph matchings, greedy, implementation, math, trees
+name: Valeriy and Deque, rating: 1500, tags: data structures, implementation
+name: Digits Sequence (Hard Edition), rating: 1800, tags: binary search, divide and conquer, implementation
+name: Digits Sequence (Easy Edition), rating: 1000, tags: implementation
+name: Destroy it!, rating: 2100, tags: dp, implementation, sortings
+name: Lose it!, rating: 1300, tags: dp, greedy, implementation
+name: Divide it!, rating: 800, tags: brute force, greedy, implementation
+name: Minimal Segment Cover, rating: 2200, tags: data structures, dfs and similar, divide and conquer, dp, greedy, implementation, trees
+name: Catch Overflow!, rating: 1600, tags: data structures, expression parsing, implementation
+name: From Hero to Zero, rating: 900, tags: implementation, math
+name: Ehab and the Big Finale, rating: 2400, tags: constructive algorithms, divide and conquer, graphs, implementation, interactive, trees
+name: Nauuo and Cards, rating: 1800, tags: greedy, implementation
+name: Decoding of Integer Sequences, rating: N/A, tags: *special, data structures, implementation
+name: Minus and Minus Give Plus, rating: N/A, tags: *special, implementation, strings
+name: Bad Days, rating: N/A, tags: *special, implementation
+name: Pairs, rating: 1500, tags: graphs, implementation
+name: Circle Metro, rating: 900, tags: implementation, math
+name: Anagram Paths, rating: 3000, tags: dp, implementation, trees
+name: Microtransactions (hard version), rating: 2000, tags: binary search, greedy, implementation
+name: Remainder, rating: 1100, tags: implementation, math
+name: Power Transmission (Hard Edition), rating: 1900, tags: data structures, geometry, implementation, math
+name: Cat Party (Hard Edition), rating: 1600, tags: data structures, implementation
+name: Cat Party (Easy Edition), rating: 1500, tags: data structures, implementation
+name: Zoning Restrictions Again, rating: 800, tags: implementation
+name: Expansion coefficient of the array, rating: 1300, tags: implementation, math
+name: A pile of stones, rating: 800, tags: implementation, math
+name: The Party and Sweets, rating: 1500, tags: binary search, constructive algorithms, greedy, implementation, math, sortings, two pointers        
+name: Reachable Numbers, rating: 1100, tags: implementation
+name: Optimizer, rating: 2700, tags: graphs, greedy, hashing, implementation
+name: Ugly Pairs, rating: 1800, tags: dfs and similar, greedy, implementation, sortings, strings
+name: Game with Telephone Numbers, rating: 1200, tags: games, greedy, implementation
+name: Reverse a Substring, rating: 1000, tags: implementation, sortings, strings
+name: Two Teams, rating: 1800, tags: data structures, implementation, sortings
+name: Gourmet Cat, rating: 1400, tags: implementation, math
+name: Neko Finds Grapes, rating: 800, tags: greedy, implementation, math
+name: Tiling Challenge, rating: 900, tags: greedy, implementation
+name: Stock Arbitraging, rating: 800, tags: greedy, implementation
+name: Tree Generatorâ„¢, rating: 2700, tags: data structures, implementation, trees
+name: Three Religions, rating: 2200, tags: dp, implementation, strings
+name: Hot is Cold, rating: 2400, tags: bitmasks, data structures, divide and conquer, implementation
+name: Hate "A", rating: 1100, tags: implementation, strings
+name: Love "A", rating: 800, tags: implementation, strings
+name: Pigeon d'Or, rating: N/A, tags: implementation
+name: Thanos Sort, rating: N/A, tags: implementation
+name: Parity Alternated Deletions, rating: 900, tags: greedy, implementation, sortings
+name: Diverse Strings, rating: 800, tags: implementation, strings
+name: The Doors, rating: 800, tags: implementation
+name: Colored Boots, rating: 1500, tags: greedy, implementation
+name: Maximal Continuous Rest, rating: 900, tags: implementation
+name: Game 23, rating: 1000, tags: implementation, math
+name: Good String, rating: 1200, tags: implementation, strings
+name: Detective Book, rating: 1000, tags: implementation
+name: Chocolates, rating: 1000, tags: greedy, implementation
+name: Even Substrings, rating: 800, tags: implementation, strings
+name: Sushi for Two, rating: 900, tags: binary search, greedy, implementation
+name: Museums Tour, rating: 2500, tags: dp, graphs, implementation
+name: Skyscrapers, rating: 1600, tags: implementation, sortings
+name: Nastya Is Reading a Book, rating: 800, tags: implementation
+name: Middle of the Contest, rating: 1000, tags: implementation
+name: Regular Bracket Sequence, rating: 1100, tags: greedy, implementation
+name: Draw!, rating: 1400, tags: greedy, implementation
+name: Be Positive, rating: 800, tags: implementation
+name: System Testing, rating: 1600, tags: implementation
+name: Mike and Children, rating: 1200, tags: brute force, implementation
+name: Technogoblet of Fire, rating: 1100, tags: implementation, sortings
+name: Once in a casino, rating: 2700, tags: constructive algorithms, greedy, implementation, math
+name: Diana and Liana, rating: 1900, tags: greedy, implementation, two pointers
+name: Get Ready for the Battle, rating: 3100, tags: constructive algorithms, implementation
+name: Ramesses and Corner Inversion, rating: 1500, tags: constructive algorithms, greedy, implementation, math
+name: Ilya and a Colorful Walk, rating: 1100, tags: greedy, implementation
+name: Yet Another Ball Problem, rating: 1700, tags: constructive algorithms, implementation
+name: Palindromic Matrix, rating: 1700, tags: constructive algorithms, implementation
+name: Tanya and Candies, rating: 1200, tags: implementation
+name: Best Subsegment, rating: 1100, tags: implementation, math
+name: Trailing Loves (or L'oeufs?), rating: 1700, tags: brute force, implementation, math, number theory
+name: Got Any Grapes?, rating: 800, tags: brute force, greedy, implementation
+name: Average Superhero Gang Power , rating: 1700, tags: brute force, implementation, math
+name: Superhero Transformation, rating: 1000, tags: implementation, strings
+name: Sasha and a Patient Friend, rating: 2800, tags: binary search, data structures, implementation
+name: Sasha and a Bit of Relax, rating: 1600, tags: dp, implementation
+name: Array and Segments (Hard version), rating: 2100, tags: data structures, implementation
+name: Array and Segments (Easy version), rating: 1800, tags: brute force, greedy, implementation
+name: Two distinct points, rating: 800, tags: implementation
+name: Compression, rating: 1800, tags: dp, implementation, math, number theory
+name: Lunar New Year and Number Division, rating: 900, tags: greedy, implementation, math, sortings
+name: Lunar New Year and Food Ordering, rating: 1500, tags: data structures, implementation
+name: Lunar New Year and Cross Counting, rating: 800, tags: implementation
+name: Kilani and the Game, rating: 1900, tags: dfs and similar, graphs, implementation, shortest paths
+name: Zuhair and Strings, rating: 1100, tags: brute force, implementation, strings
+name: Salem and Sticks , rating: 1100, tags: brute force, implementation
+name: Game with string, rating: 1200, tags: data structures, implementation, math
+name: Splitting into digits, rating: 800, tags: constructive algorithms, implementation, math
+name: Grid game, rating: 1400, tags: constructive algorithms, implementation
+name: Polycarp's New Job, rating: 1500, tags: implementation
+name: Accordion, rating: 1300, tags: greedy, implementation
+name: Build a Contest, rating: 1300, tags: data structures, implementation
+name: Roman and Browser, rating: 1000, tags: implementation
+name: Postcard, rating: 1200, tags: constructive algorithms, implementation
+name: Snowball, rating: 800, tags: implementation
+name: Fedya the Potter, rating: 3400, tags: binary search, implementation, math, number theory
+name: Yuhao and a Parenthesis, rating: 1400, tags: greedy, implementation
+name: Gennady and a Card Game, rating: 800, tags: brute force, implementation
+name: Find Divisible, rating: 800, tags: greedy, implementation, math
+name: Almost Regular Bracket Sequence, rating: 1900, tags: implementation
+name: Circular Dance, rating: 1600, tags: implementation
+name: Array Stabilization, rating: 900, tags: implementation
+name: Repeating Cipher, rating: 800, tags: implementation
+name: Great Vova Wall (Version 2), rating: 2200, tags: data structures, implementation
+name: Great Vova Wall (Version 1), rating: 2200, tags: greedy, implementation, math
+name: Uniform String, rating: 800, tags: implementation
+name: New Year and the Acquaintance Estimation, rating: 2400, tags: binary search, data structures, graphs, greedy, implementation, math, sortings  
+name: New Year and the Treasure Geolocation, rating: 1200, tags: brute force, constructive algorithms, greedy, implementation
+name: New Year and the Christmas Ornament, rating: 800, tags: brute force, implementation, math
+name: The Pleasant Walk, rating: 1000, tags: implementation
+name: Combostone, rating: 2500, tags: games, implementation
+name: JS Minification, rating: 3200, tags: greedy, implementation
+name: Ehab and another another xor problem, rating: 2000, tags: bitmasks, constructive algorithms, implementation, interactive
+name: Ehab and subtraction, rating: 1000, tags: implementation, sortings
+name: Vasya and Templates, rating: 2300, tags: greedy, implementation, strings
+name: Minimum Diameter Tree, rating: 1700, tags: constructive algorithms, implementation, trees
+name: Connect Three, rating: 1600, tags: implementation, math
+name: Right-Left Cipher, rating: 800, tags: implementation, strings
+name: The Fair Nut and String, rating: 1500, tags: combinatorics, dp, implementation
+name: Kvass and the Fair Nut, rating: 1200, tags: greedy, implementation
+name: The Fair Nut and Elevator, rating: 1000, tags: brute force, implementation
+name: The Fair Nut's getting crazy, rating: 3500, tags: data structures, implementation
+name: Maximum Diameter Graph, rating: 1800, tags: constructive algorithms, graphs, implementation
+name: Vasya and Book, rating: 1200, tags: implementation, math
+name: Tricky Interactor, rating: 2600, tags: constructive algorithms, implementation, interactive
+name: Farewell Party, rating: 1500, tags: constructive algorithms, implementation
+name: Olya and magical square, rating: 2000, tags: constructive algorithms, implementation, math
+name: Masha and two friends, rating: 1500, tags: implementation
+name: Divisor Subtraction, rating: 1200, tags: implementation, math, number theory
+name: Taxi drivers and Lyft, rating: 1200, tags: implementation, sortings
+name: The King's Race, rating: 800, tags: implementation, math
+name: Vasya and Books, rating: 1000, tags: implementation, math
+name: Diverse Substring, rating: 1000, tags: implementation, strings
+name: Video Posts, rating: 1100, tags: implementation
+name: BerOS File Suggestion, rating: 1500, tags: brute force, implementation
+name: Monsters and Potions, rating: 2300, tags: brute force, dp, greedy, implementation
+name: Binary Numbers AND Sum, rating: 1700, tags: data structures, implementation, math
+name: Boxes Packing, rating: 1800, tags: binary search, implementation
+name: Books Queries, rating: 1400, tags: implementation
+name: Vasya and Chocolate, rating: 800, tags: implementation, math
+name: Fun with Integers, rating: 1800, tags: dfs and similar, graphs, implementation, math
+name: Banh-mi, rating: 1600, tags: greedy, implementation, math
+name: A Prank, rating: 1300, tags: greedy, implementation
+name: TV Shows, rating: 2000, tags: data structures, greedy, implementation, sortings
+name: Multiplicity, rating: 1700, tags: data structures, dp, implementation, math, number theory
+name: Views Matter, rating: 1400, tags: greedy, implementation, sortings
+name: Coins, rating: 800, tags: greedy, implementation, math
+name: Maximum Subrectangle, rating: 1600, tags: binary search, implementation, two pointers
+name: Forgery, rating: 1300, tags: implementation
+name: Cashier, rating: 1000, tags: implementation
+name: Pick Heroes, rating: 1700, tags: greedy, implementation, interactive, sortings
+name: Determine Line, rating: 800, tags: implementation
+name: Refactoring, rating: 2400, tags: greedy, implementation, strings
+name: Alice and Hairdresser, rating: 1300, tags: dsu, implementation
+name: Chips Puzzle, rating: 2400, tags: constructive algorithms, implementation, math
+name: Changing Array, rating: 1900, tags: greedy, implementation
+name: Candies Distribution, rating: 1500, tags: constructive algorithms, implementation
+name: Appending Mex, rating: 1000, tags: implementation
+name: Elevator or Stairs?, rating: 800, tags: implementation
+name: Vasya and Multisets, rating: 1500, tags: brute force, dp, greedy, implementation, math
+name: Vasya And Password, rating: 1200, tags: greedy, implementation, strings
+name: Splitting money, rating: 1400, tags: implementation
+name: Grid Sort, rating: 3100, tags: implementation
+name: Smallest Word, rating: 1500, tags: constructive algorithms, greedy, implementation
+name: Lost Array, rating: 1200, tags: implementation
+name: Elections, rating: 800, tags: implementation, math
+name: Vitamins, rating: 1200, tags: bitmasks, brute force, dp, implementation
+name: Benches, rating: 1100, tags: binary search, implementation
+name: Heist, rating: 800, tags: greedy, implementation, sortings
+name: Slime, rating: 1800, tags: dp, greedy, implementation
+name: Equality, rating: 800, tags: implementation, strings
+name: King Escape, rating: 1000, tags: dfs and similar, graphs, implementation
+name: Barcelonian Distance, rating: 1900, tags: geometry, implementation
+name: Golden Plate, rating: 800, tags: implementation, math
+name: Vasya and Golden Ticket, rating: 1300, tags: implementation
+name: In Search of an Easy Problem, rating: 800, tags: implementation
+name: Concatenated Multiples, rating: 1900, tags: implementation, math
+name: Many Equal Substrings, rating: 1300, tags: implementation, strings
+name: Rectangles, rating: 1600, tags: geometry, implementation, sortings
+name: Find Square, rating: 800, tags: implementation
+name: Numbers on the Chessboard, rating: 1200, tags: implementation, math
+name: Palindromic Twist, rating: 1000, tags: implementation, strings
+name: Colored Cubes, rating: 2700, tags: constructive algorithms, implementation, matrices
+name: Plasticine zebra, rating: 1600, tags: constructive algorithms, implementation
+name: Doggo Recoloring, rating: 900, tags: implementation, sortings
+name: Single Wildcard Pattern Matching, rating: 1200, tags: brute force, implementation, strings
+name: The Bits, rating: 1200, tags: implementation, math
+name: The Rank, rating: 800, tags: implementation
+name: Vasya And The Mushrooms, rating: 1800, tags: dp, implementation
+name: Segment Occurrences, rating: 1300, tags: brute force, implementation
+name: Death Note, rating: 900, tags: greedy, implementation, math
+name: Obtaining the String, rating: 1200, tags: implementation
+name: Points in Segments, rating: 800, tags: implementation
+name: Passports, rating: 3400, tags: dp, implementation
+name: Photo of The Sky, rating: 1500, tags: brute force, implementation, math, sortings
+name: Planning The Expedition, rating: 1200, tags: binary search, brute force, implementation
+name: Stages, rating: 900, tags: greedy, implementation, sortings
+name: Mars rover, rating: 2000, tags: dfs and similar, graphs, implementation, trees
+name: Minimum Ternary String, rating: 1400, tags: greedy, implementation
+name: Game Shopping, rating: 800, tags: implementation
+name: Romaji, rating: 900, tags: implementation, strings
+name: Two Strings Swaps, rating: 1700, tags: implementation
+name: Polycarp's Practice, rating: 1200, tags: greedy, implementation, sortings
+name: Adjacent Replacements, rating: 800, tags: implementation
+name: Summarize to the Power of Two, rating: 1300, tags: brute force, greedy, implementation
+name: Delete from the Left, rating: 900, tags: brute force, implementation, strings
+name: Tanya and Stairways, rating: 800, tags: implementation
+name: Sonya and Matrix, rating: 2300, tags: brute force, constructive algorithms, implementation
+name: Sonya and Robots, rating: 1400, tags: constructive algorithms, implementation
+name: Sonya and Exhibition, rating: 1300, tags: constructive algorithms, greedy, implementation, math
+name: Sonya and Hotels, rating: 900, tags: implementation
+name: Intense Heat, rating: 1300, tags: brute force, implementation, math
+name: Polycarp's Pockets, rating: 800, tags: implementation
+name: Covered Points Count, rating: 1700, tags: data structures, implementation, sortings
+name: Codehorses T-shirts, rating: 1200, tags: greedy, implementation
+name: Mishka and Contest, rating: 800, tags: brute force, implementation
+name: Balloons, rating: 1000, tags: constructive algorithms, implementation
+name: Convert to Ones, rating: 1500, tags: brute force, greedy, implementation, math
+name: Suit and Tie, rating: 1400, tags: greedy, implementation, math
+name: Tesla, rating: 2100, tags: constructive algorithms, implementation
+name: Knights of a Polygonal Table, rating: 1400, tags: greedy, implementation, sortings
+name: Fingerprints, rating: 800, tags: implementation
+name: Two Squares, rating: 1600, tags: geometry, implementation
+name: Nastya and a Game, rating: 2100, tags: brute force, implementation, math
+name: Nastya and an Array, rating: 800, tags: implementation, sortings
+name: Concise and clear, rating: 2700, tags: brute force, greedy, implementation, math
+name: Candies, rating: 1500, tags: binary search, implementation
+name: If at first you don't succeed..., rating: 1000, tags: implementation
+name: Graph And Its Complement, rating: 1700, tags: constructive algorithms, graphs, implementation
+name: Bracket Sequences Concatenation Problem, rating: 1500, tags: implementation
+name: Commentary Boxes, rating: 1000, tags: implementation, math
+name: A Blend of Springtime, rating: 900, tags: implementation, strings
+name: Equal Sums, rating: 1400, tags: implementation, sortings
+name: Diverse Team, rating: 800, tags: brute force, implementation
+name: Three displays, rating: 1400, tags: brute force, dp, implementation
+name: Infinity Gauntlet, rating: 800, tags: implementation
+name: Switches and Lamps, rating: 1200, tags: implementation
+name: Chess Placing, rating: 1100, tags: implementation

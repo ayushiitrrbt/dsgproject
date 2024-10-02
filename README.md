@@ -8,7 +8,9 @@ Name: Quickly locate specific problems or work through them alphabetically.
 With SortYourCodeforces, you can efficiently tailor your problem-solving journey according to your preferences, making it easier to track your progress and enhance your competitive programming skills.
 
 
-#How it works
+# How it works
+
+
 SortYourCodeforces leverages a cutting-edge Retrieval-Augmented Generation (RAG) system to provide an efficient and flexible way to query Codeforces problems. Here's a breakdown of how it functions:
 Data Retrieval: The application maintains a comprehensive database of Codeforces problems, including details such as tags, ratings, and problem names. When you make a query, the RAG system retrieves the most relevant problems from this dataset based on your specified criteria.
 Query Processing: You can ask questions or provide sorting instructions in natural language (e.g., "Show me problems with a rating above 1600 tagged with 'graphs'"). The RAG model processes this query and understands your intent, allowing it to fetch the most suitable problems for you.
